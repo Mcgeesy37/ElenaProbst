@@ -1077,3 +1077,17 @@ ul { list-style: none; }
   }
   .contact__form-card { padding: 24px 18px; }
 }
+/* Mobile Nav Open */
+@media (max-width: 900px) {
+  .nav__links.mobile-open {
+    display: flex !important;
+    flex-direction: column;
+    position: fixed;
+    top: 72px; left: 0; right: 0;
+    background: rgba(20,20,20,0.97);
+    padding: 24px 40px;
+    gap: 20px;
+    z-index: 99;
+    backdrop-filter: blur(12px);
+  }
+}
