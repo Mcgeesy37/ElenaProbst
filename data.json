@@ -1,0 +1,94 @@
+{
+  "site": {
+    "name": "Elena Probst",
+    "tagline": "Professionelle Sprecherin",
+    "headline": "In nur 24 Stunden zu deiner Aufnahme.",
+    "subheadline": "Ich spreche deinen Text. Schnell, professionell und unkompliziert. Meine Stimme verleiht deinem Projekt das gewisse Etwas.",
+    "email": "hallo@elena-probst.de",
+    "phone": "+49 123 456789"
+  },
+  "checklist": [
+    "Aufnahme in nur 24 Stunden",
+    "Exzellenter Kundenservice",
+    "Kostenlose Hintergrundmusik",
+    "Kostenlose Rechte für unlimitierte Nutzung",
+    "Unbegrenzte Korrekturrunden",
+    "Lieferung in WAV und MP3"
+  ],
+  "demos": [
+    {
+      "id": 1,
+      "category": "Erklärvideo",
+      "title": "Kurz und auf den Punkt.",
+      "description": "Mit deinem Erklärvideo willst du Kunden gewinnen. Dafür müssen die Hörer dranbleiben – mit einer dynamischen Sprechweise gelingt uns das am besten. Hör selbst!",
+      "youtube": "",
+      "localFile": ""
+    },
+    {
+      "id": 2,
+      "category": "Imagefilm",
+      "title": "Deine Firma – perfekt dargestellt.",
+      "description": "Du willst seriös, professionell und erfolgreich rüberkommen. Meine Stimme verleiht deinem Imagefilm das nötige Etwas, um von der Konkurrenz abzuheben.",
+      "youtube": "",
+      "localFile": ""
+    },
+    {
+      "id": 3,
+      "category": "Podcast-Intro",
+      "title": "Die Spannung steigt – mit jeder Folge.",
+      "description": "Die ersten Sekunden sind entscheidend – kommt hier kein gutes Intro das deine Hörer packt, sind sie weg. Vielleicht für immer.",
+      "youtube": "",
+      "localFile": ""
+    }
+  ],
+  "about": {
+    "title": "Über Elena Probst",
+    "lead": "Elena ist ausgebildete Sprecherin mit Leidenschaft für klare, ausdrucksstarke Kommunikation.",
+    "body": "Sie arbeitet mit hochwertigem Equipment und weiß, was du brauchst: eine Aufnahme, die deine Kunden begeistert!"
+  },
+  "faq": [
+    {
+      "question": "Was, wenn mir eine Aufnahme nicht gefällt?",
+      "answer": "Dank unendlich vieler Korrekturrunden brauchst du dir darüber keine Sorgen machen. Normalerweise ist die Aufnahme direkt beim ersten Mal perfekt – solltest du aber IRGENDEINEN Änderungswunsch haben, teile ihn mir bitte mit! Ich mache mich sofort wieder ans Mikrofon!"
+    },
+    {
+      "question": "Was schicke ich dir als Demo-Text?",
+      "answer": "Am besten schickst du mir einen kurzen Abschnitt aus deinem eigentlichen Skript – so bekommst du einen realistischen Eindruck davon, wie dein fertiges Projekt klingen wird."
+    },
+    {
+      "question": "Für wen hat Elena gesprochen?",
+      "answer": "Elena hat bereits für Unternehmen, Agenturen, YouTuber, Podcaster und viele weitere Kreative gesprochen. Ihre Stimme passt zu Erklärvideos, Imagefilmen, Hörbüchern, Podcast-Intros und mehr."
+    },
+    {
+      "question": "Wie läuft der Ablauf ab?",
+      "answer": "Du schickst mir deinen Text über das Formular. Ich melde mich innerhalb von 24 Stunden mit einer kostenlosen Demo-Aufnahme. Nach deiner Freigabe erhältst du die fertige Aufnahme in WAV und MP3."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Kundin / Kunde 1",
+      "description": "Füge hier eine Kundenstimme hinzu – klicke auf den Button unten.",
+      "youtube": "",
+      "localFile": ""
+    },
+    {
+      "id": 2,
+      "name": "Kundin / Kunde 2",
+      "description": "Füge hier eine weitere Kundenstimme hinzu.",
+      "youtube": "",
+      "localFile": ""
+    },
+    {
+      "id": 3,
+      "name": "Kundin / Kunde 3",
+      "description": "Drei Kundenstimmen wirken besonders überzeugend.",
+      "youtube": "",
+      "localFile": ""
+    }
+  ],
+  "legal": {
+    "imprint": "<h2>Impressum</h2><p><strong>Elena Probst</strong><br/>Musterstraße 1<br/>12345 Musterstadt</p><p>E-Mail: hallo@elena-probst.de<br/>Telefon: +49 123 456789</p><p>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV: Elena Probst</p>",
+    "privacy": "<h2>Datenschutzerklärung</h2><p>Der Schutz deiner persönlichen Daten ist uns wichtig. Diese Website erhebt keine personenbezogenen Daten ohne deine ausdrückliche Einwilligung.</p><p>Das Kontaktformular sendet deine Anfrage direkt an uns. Wir verwenden deine Daten ausschließlich zur Bearbeitung deiner Anfrage.</p><p>Für Fragen zum Datenschutz wende dich an: hallo@elena-probst.de</p>"
+  }
+}
